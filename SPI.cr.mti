@@ -1,0 +1,8 @@
+{D:/Courses/Digital_Design_Diploma/Projects/2- SPI/spi.v} {1 {vlog -work work -vopt -stats=none {D:/Courses/Digital_Design_Diploma/Projects/2- SPI/spi.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module SPI_module
+
+Top level modules:
+	SPI_module
+
+} {} {}}
